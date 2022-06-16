@@ -19,8 +19,9 @@ printf("This is mul=%lf\n",multiply);
 
 division=x/y;
 printf("This is div=%lf\n",division);
-
-
+	
+modulus=x%y;
+printf("This is mod=%d\n",molulus);
 
 
 return 0;
