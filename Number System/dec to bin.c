@@ -9,4 +9,3 @@ printf("decimal to binary= %b",num1);
 
 
 }
-
